@@ -7,19 +7,19 @@
 
 # Использованные методы отбора признаков
     1. Univariate selection 
-    https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html
+    [https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html]
     2. Backward elimination with p-value 
-    https://medium.com/@mayankshah_85820/machine-learning-feature-selection-with-backward-elimination-955894654026
+    [https://medium.com/@mayankshah_85820/machine-learning-feature-selection-with-backward-elimination-955894654026]
     3. Forward selection 
-    http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/
+    [http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/]
     4.  L1-based feature selection 
-    https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html#sklearn.linear_model.Lasso
+    [https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html#sklearn.linear_model.Lasso]
     5. PCA
-    https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+    [https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html]
     6. Feature importance используя XgBoost
-    https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/
+    [https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/]
     7. Feature importance используя Catboost
-    https://catboost.ai/docs/concepts/fstr.html
+    [https://catboost.ai/docs/concepts/fstr.html]
     
  # Описание файлов
     1. working_with_grace.ipynb, working_with_pd.ipynb - сравнение методов 1, 2, 4 и 5 для grace и pd соответсвенно
