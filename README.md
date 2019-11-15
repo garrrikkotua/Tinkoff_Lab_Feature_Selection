@@ -6,6 +6,7 @@
 Используя данные партнеров компании, отобрать самые важные признаки для улучшения моделей предсказания дефолтности и грейсовости     клиентов.
 
 # Использованные методы отбора признаков
+<html>
     1. Univariate selection 
     <a href="https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection">Link<a/>
     2. Backward elimination with p-value 
@@ -20,6 +21,7 @@
     [https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/]
     7. Feature importance используя Catboost
     [https://catboost.ai/docs/concepts/fstr.html]
+<html/>
     
  # Описание файлов
     1. working_with_grace.ipynb, working_with_pd.ipynb - сравнение методов 1, 2, 4 и 5 для grace и pd соответсвенно
