@@ -7,20 +7,15 @@
 
 # Использованные методы отбора признаков
 <html>
-    1. Univariate selection 
-    <a href="https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection">Link<a/>
-    2. Backward elimination with p-value 
-    <https://medium.com/@mayankshah_85820/machine-learning-feature-selection-with-backward-elimination-955894654026>
-    3. Forward selection 
-    [http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/]
-    4.  L1-based feature selection 
-    [https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html#sklearn.linear_model.Lasso]
-    5. PCA
-    [https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html]
-    6. Feature importance используя XgBoost
-    [https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/]
-    7. Feature importance используя Catboost
-    [https://catboost.ai/docs/concepts/fstr.html]
+    <ol>
+     <li><a href="https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection">Univariate selection<a/><li/>
+     <li><a href="https://medium.com/@mayankshah_85820/machine-learning-feature-selection-with-backward-elimination-955894654026">Backward elimination<a/><li/> 
+     <li><a href="http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/">Forward selection<a/><li/>
+     <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html#sklearn.linear_model.Lasso">L1-based feature selection<a/><li/>
+     <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html">PCA<a/><li/>
+     <li><a href="https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/">Feature importance используя XgBoost<a/><li/>
+     <li><a href="https://catboost.ai/docs/concepts/fstr.html">Feature importance используя Catboost<a/><li/>
+    <ol/>
 <html/>
     
  # Описание файлов
