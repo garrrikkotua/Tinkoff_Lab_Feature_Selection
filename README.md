@@ -19,7 +19,7 @@
 </html>
     
  # Описание файлов
-    1. working_with_grace.ipynb, working_with_pd.ipynb - сравнение методов 1, 2, 4 и 5 для grace и pd соответсвенно
+    1. [working_with_grace.ipynb], working_with_pd.ipynb - сравнение методов 1, 2, 4 и 5 для grace и pd соответсвенно
     2. Trying_xgboost_grace.ipynb, Trying_xgboost_pd.ipynb - 6 и 7 для grace и pd соответсвенно
     3. Forward_selection.ipynb - 3 метод для grace и pd
     4. Combining_models_pd.ipynb, Combining_models_grace.ipynb - комбинирование моей и текущей модели для сравнения (используя метод 2)
