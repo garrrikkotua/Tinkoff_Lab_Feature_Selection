@@ -7,7 +7,7 @@
 
 # Использованные методы отбора признаков
     1. Univariate selection 
-    https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection
+    <a href="https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection">Link<a/>
     2. Backward elimination with p-value 
     <https://medium.com/@mayankshah_85820/machine-learning-feature-selection-with-backward-elimination-955894654026>
     3. Forward selection 
